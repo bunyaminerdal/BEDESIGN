@@ -3,6 +3,7 @@ import sys , os
 from OpenGL.GL import *
 from OpenGL.GLU import *
 from OpenGL.GLUT import *
+from OpenGL.GLUT import GLUT_STROKE_MONO_ROMAN
 from Var import Variables
 from Undo import UndoReundo
 from FJ import Frame , Joint , Unit , Steel, Concrete ,Materials , Sections,Ishapes,Ushapes,Lshape,Rectangular,Rectangularbar,Circular,Circularbar , DLshape
